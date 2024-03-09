@@ -34,4 +34,4 @@ Codes for Office-31 are in the 'office-31' folder, enter the folder and then run
 
 #### Acknowledgement
 
-The codes are based on [SHOT](https://github.com/tim-learn/SHOT),  thanks for the authors.
+The codes are based on [SHOT](https://github.com/tim-learn/SHOT),  thanks the authors for their efforts.
