@@ -4,12 +4,12 @@ The codes are implemented with PyTorch 1.6 and Cuda 10.2.
 
 ### Dataset preparing
 
-Download the dataset including VisDA, Office-Home and Office-31. Then set the path of data list in the codes. 
+Download the datasets including VisDA-2017, Office-Home and Office-31. Then set the path of data list in the codes. 
 
 
 ### VisDA
 
-First train the model on source domain, then do target adaptation without source data. Run the following commands:
+First train the model on source domain, then conduct target adaptation without source data. Run the following commands:
 > python src_pretrain.py
 >
 > python tar_adaptation_st.py
