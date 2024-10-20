@@ -162,7 +162,7 @@ def hyper_decay(x, beta=-2, alpha=1):
     weight = (1 + 10 * x) ** (-beta) * alpha
     return weight
 
-
+'''
 def train_target(args):
     dset_loaders = data_load(args)
 
@@ -401,7 +401,7 @@ def train_target(args):
             """
 
     return netF, netB, netC
-
+'''
 
 def print_args(args):
     s = "==========================================\n"
