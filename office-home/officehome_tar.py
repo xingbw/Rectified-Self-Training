@@ -163,7 +163,7 @@ def hyper_decay(x, beta=-5, alpha=1):
     weight = (1 + 1 * x) ** (-beta) * alpha
     return weight
 
-
+'''
 def train_target_decay(args):
     dset_loaders = office_load_idx(args)
     ## set base network
@@ -375,7 +375,7 @@ def train_target_decay(args):
                 )
 
     # return mask
-
+'''
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
