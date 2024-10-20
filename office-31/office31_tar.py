@@ -219,7 +219,7 @@ def office_load_idx(args):
     )
     return dset_loaders
 
-
+'''
 def train_target_near1(args):
     dset_loaders = office_load_idx(args)
     ## set base network
@@ -408,7 +408,7 @@ def train_target_near1(args):
         torch.save(best_netC, osp.join(args.output_dir, "C_final.pt"))
 
     # return mask
-
+'''
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
