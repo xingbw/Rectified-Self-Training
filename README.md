@@ -18,22 +18,23 @@ First train the model on source domain, then conduct target adaptation without s
 >
 > python tar_adaptation_st.py
 
-### Office-Home
-
-Codes for Office-Home are in the 'office-home' folder, enter the folder and then run the following commands:
-
-> sh train_src_officehome.sh
->
-> sh train_tar_officehome.sh
 
 
-### Office-31
+<!-- ### Office-Home -->
 
-Codes for Office-31 are in the 'office-31' folder, enter the folder and then run the following commands:
+<!-- Codes for Office-Home are in the 'office-home' folder, enter the folder and then run the following commands:
+ -->
 
-> sh train_src_office31.sh
->
-> sh train_tar_office31.sh
+<!-- sh train_src_officehome.sh , sh train_tar_officehome.sh -->
+
+
+<!-- ### Office-31 -->
+
+<!-- Codes for Office-31 are in the 'office-31' folder, enter the folder and then run the following commands:
+ -->
+
+<!-- sh train_src_office31.sh , sh train_tar_office31.sh -->
+
 
 
 #### Acknowledgement
