@@ -1,7 +1,7 @@
 # Rectifying Self-Training with Neighborhood Consistency and Proximity for Source Free Domain Adaptation
 
 
-### [!] Codes are being updated, please wait for further release.
+### [!] Codes are being updated, please wait for further release. 
 
 
 The codes are implemented with PyTorch 1.6 and Cuda 10.2.
